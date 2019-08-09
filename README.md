@@ -1,5 +1,5 @@
 # Rethink-what-random-means
-Esoteric cases to let you rethink what "randomness" really means
+Alternative cases to let you rethink what "randomness" really means
 
 # Random number generators themselves
  - Can computers generate true random numbers?
